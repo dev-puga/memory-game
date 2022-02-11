@@ -1,9 +1,0 @@
-:root {
-  --color-marine-blue: #051932;
-  --color-violet: #7c5e99;
-  --color-white: #fffcee;
-}
-
-body {
-  background-color: var(--color-violet);
-}

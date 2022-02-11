@@ -1,8 +1,13 @@
-import { useState } from "react";
-import CardGame from "./components/CardGame";
+import BoardGame from "./objects/BoardGame";
+import GlobalStyles from "./styles/globalStyles";
 
 function App() {
-  return <CardGame />;
+  return (
+    <>
+      <GlobalStyles />
+      <BoardGame />
+    </>
+  );
 }
 
 export default App;

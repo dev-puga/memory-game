@@ -36,7 +36,7 @@ const CardGame: React.FC = () => {
           {!viewSecondCard ? (
             <img src="src/images/question_mark.svg" alt="questionLogo" />
           ) : (
-            <img src="src/images/apple.svg" alt="appleImg" />
+            <img src="src/images/banana.svg" alt="appleImg" />
           )}
         </Card>
 
@@ -60,7 +60,7 @@ const CardGame: React.FC = () => {
           {!viewSecondCard ? (
             <img src="src/images/question_mark.svg" alt="questionLogo" />
           ) : (
-            <img src="src/images/apple.svg" alt="appleImg" />
+            <img src="src/images/cherries.svg" alt="appleImg" />
           )}
         </Card>
 
@@ -68,7 +68,7 @@ const CardGame: React.FC = () => {
           {!viewSecondCard ? (
             <img src="src/images/question_mark.svg" alt="questionLogo" />
           ) : (
-            <img src="src/images/apple.svg" alt="appleImg" />
+            <img src="src/images/cherries.svg" alt="appleImg" />
           )}
         </Card>
       </Container>

@@ -8,7 +8,7 @@ export const Container = styled.div`
   height: 100vh;
 `;
 
-export const Card = styled.button`
+export const CardContent = styled.button`
   display: flex;
   justify-content: center;
   align-items: center;
